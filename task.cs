@@ -35,3 +35,4 @@ namespace LAB12
             Console.WriteLine("Програму завершено.");
         }
     }
+}
